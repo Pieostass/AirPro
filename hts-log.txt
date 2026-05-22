@@ -1,0 +1,392 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 22 May 2026 11:33:40 at https://airpronetworks.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://airpronetworks.com/ -O1 "C:\My Web Sites\AirPro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:43:18	Error: 	"Not Found" (404) at link https://airpronetworks.com/wp-content/plugins/gallery-with-thumbnail-slider/includes/css/img/link.png (from https://airpronetworks.com/wp-content/plugins/gallery-with-thumbnail-slider/includes/css/gwts-style.css?ver=20260522)
+11:43:18	Error: 	"Not Found" (404) at link https://airpronetworks.com/wp-content/themes/hostinza/assets/images/banner.jpg (from https://airpronetworks.com/wp-content/themes/hostinza/assets/css/blog-style.css?ver=2.9.5)
+11:43:18	Error: 	"Not Found" (404) at link https://airpronetworks.com/wp-content/themes/hostinza/assets/css/owl.video.play.png (from https://airpronetworks.com/wp-content/themes/hostinza/assets/css/owl.carousel.min.css?ver=2.9.5)
+11:43:20	Error: 	"Not Found" (404) at link https://airpronetworks.com/dummy.png (from https://airpronetworks.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.25)
+11:43:20	Warning: 	Moved Permanently for https://airpronetworks.com/origin=https://
+11:43:20	Warning: 	Redirected link is identical because of 'URL Hack' option: https://airpronetworks.com/origin=https:// and https://airpronetworks.com/origin=https:/
+11:43:20	Warning: 	File has moved from https://airpronetworks.com/origin=https:// to https://airpronetworks.com/origin=https:/
+11:43:20	Error: 	"Not Found" (404) at link https://airpronetworks.com/Trident/ (from https://airpronetworks.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.0.7)
+11:43:20	Warning: 	Moved Permanently for https://airpronetworks.com/?p=6814
+11:43:20	Warning: 	File has moved from https://airpronetworks.com/?p=6814 to https://airpronetworks.com/customer-support/
+11:53:58	Warning: 	Moved Permanently for https://airpronetworks.com/?p=697
+11:53:58	Warning: 	File has moved from https://airpronetworks.com/?p=697 to https://airpronetworks.com/contact/
+11:53:58	Warning: 	Moved Permanently for https://airpronetworks.com/?p=4211
+11:53:58	Warning: 	File has moved from https://airpronetworks.com/?p=4211 to https://airpronetworks.com/datasheet/
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-4XG-R-series.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-28X-4XG.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-8G24XF2Q.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-26XF2Q.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-L3-10G-series.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6200-24XF2Q.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6200-28X4XF-6XG.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6200-52FX-6XG.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6200-48X-6XG.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-12GT-4XFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-Series-L2-Gigabit.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-28GT-52GT-4XFP-series.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-28GT-4XFP-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SGXQ7200-24X2Q.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SGXQ7200-48X2Q.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG3650-24FX-4XFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-S6200.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/EG-Gateway-Series.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-CS6100-24XF2QSF-E1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500WM-10GT-P-2SFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-GS3010P-WM.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-GS3016P-WM.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-GS3024P-WM.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-BGS1908MP-XF1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-DSG7510-48S6Q-HI.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-CS7500X-series.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-CRS-8616.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-AC780.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG3010P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG3024P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG3048P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-12GT-P-4XFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-24GT-P-4SFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-28GT-P-4XFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-28GT-P-4XFP-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4500-52GT-P-4XFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG5550 Series.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ES106P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ES108P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ES108P-2GE.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ES1216.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ES1024P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG1902P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG1906P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG1906P-2GE.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG1906-2SF.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG1910P-2GE-R1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG1910P-2SF.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG4016P-2G2FX.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-ESG4024P-2G2FX.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG408P-2GE-2SF.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4016P-2GE.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4024P-2GT.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP6750E-28X-P-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-GS1008.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG1016.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG1024.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500M-18X-P-6XG.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500M-30X-P-4XP2Q.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-28X-P-R1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-28X-P-4XG-R.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-52X-P-R1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG6500E-L3-10G-Copper-Routing-Switch.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9006P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9010P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9014P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9016P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9020P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9028P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS106P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS108P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9006-HP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9010-HP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IGS9024G8C-4SFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SG4300LT-10GT-P-2SFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIRBGN1122.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-LB1000.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-LT4505N.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-LT4525N.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-LTE130.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-LT100.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Drona.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Lakshya.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Connect-2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Bridge-Lite-5.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Bridge5ac-Ex.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Setu.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Setu5ac.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Setu-Lite-5G-CPE.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-Dhruv.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-MO750.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-MO1200.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP690IX-(ODU).pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP690IX-V2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP690EX-(ODU).pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP990(ODU).pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WAC2100-V1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WAC2100-V2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP605C-X1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP605C-X1-V2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP605C-X1-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP605C-AX.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP605C-AX-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP610C-AX.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP620C-AX.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/Air-AP940.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP520.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP530.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP530-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP545.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP640.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP645.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP655.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP2750E.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP1200.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP603C-X1-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP603C-X1-V2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP660C-BE.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-AP666C-BE.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WLC1500.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WLC2000.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-FMS-L12.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-FMS-L24.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP1200-V2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP602-X1.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP605-AX.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP605AX-R2.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP610-AX.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AIR-WAP655P.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WLC7008.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WLC7028.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WLC7036.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-WLC7045.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-MC-SMSF-20K.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-MC-SMDF-20K.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-MC-MMDF-2K.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-MCG-SMSF-20K.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-MCG-SMDF-20K-A/B.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-MCG-MMDF-2K.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SX8820.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/serial-module-SFP.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-XFP-MMF-10G.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-XFP-SMF-SR-10G.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-10G-SMF-SFP+LR.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-10G-SMF-SFP+ER+.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-GLC-SFP-T10.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-IXG1000G.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SFP+-LR.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP-SFP+-SR.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/AP1000G-20.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/serial-module-sfp-10gbps.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Error: 	"Forbidden" (403) at link airpronetworks.com/datasheet-pdf/serial-module-sfp-1.25gbps.pdf (from https://airpronetworks.com/datasheet/)
+11:53:58	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5978
+11:53:58	Warning: 	File has moved from https://airpronetworks.com/?p=5978 to https://airpronetworks.com/partner/
+11:53:58	Warning: 	Moved Permanently for https://airpronetworks.com/?p=6069
+11:53:58	Warning: 	File has moved from https://airpronetworks.com/?p=6069 to https://airpronetworks.com/e-brochures/
+11:53:58	Warning: 	Moved Permanently for https://airpronetworks.com/?p=6071
+11:53:58	Warning: 	File has moved from https://airpronetworks.com/?p=6071 to https://airpronetworks.com/e-mailers/
+11:54:08	Warning: 	Moved Permanently for https://airpronetworks.com/?p=1924
+11:54:08	Warning: 	File has moved from https://airpronetworks.com/?p=1924 to https://airpronetworks.com/why-airpro-has-the-best-dual-band-wifi-routers-in-india-for-home-office/
+11:54:08	Warning: 	Moved Permanently for https://airpronetworks.com/?p=1914
+11:54:08	Warning: 	File has moved from https://airpronetworks.com/?p=1914 to https://airpronetworks.com/what-is-a-poe-switch-and-why-use-it-how-does-power-over-ethernet-switch-work/
+11:54:08	Error: 	"Not Found" (404) at link https://www.veracityglobal.com/media/78155/poe-explained-one-diagram-one.png (from https://airpronetworks.com/what-is-a-poe-switch-and-why-use-it-how-does-power-over-ethernet-switch-work/)
+11:54:08	Warning: 	Moved Permanently for https://airpronetworks.com/?p=1276
+11:54:08	Warning: 	File has moved from https://airpronetworks.com/?p=1276 to https://airpronetworks.com/attentive-was-born-in-2015-help-sales-teams/
+11:54:12	Warning: 	Moved Permanently for https://airpronetworks.com/?p=463
+11:54:12	Warning: 	File has moved from https://airpronetworks.com/?p=463 to https://airpronetworks.com/about/
+11:54:12	Warning: 	Moved Permanently for https://airpronetworks.com/?p=615
+11:54:12	Warning: 	File has moved from https://airpronetworks.com/?p=615 to https://airpronetworks.com/privacy/
+11:54:12	Error: 	"Not Found" (404) at link https://airpronetworks.com/privacy-policy (from https://airpronetworks.com/privacy/)
+11:54:25	Warning: 	File not parsed, looks like binary: https://airpronetworks.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+11:54:25	Warning: 	File not parsed, looks like binary: https://airpronetworks.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/t (from https://airpronetworks.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5)
+11:54:25	Warning: 	Moved Permanently for https://airpronetworks.com/chrome-extension://
+11:54:25	Warning: 	Redirected link is identical because of 'URL Hack' option: https://airpronetworks.com/chrome-extension:// and https://airpronetworks.com/chrome-extension:/
+11:54:25	Warning: 	File has moved from https://airpronetworks.com/chrome-extension:// to https://airpronetworks.com/chrome-extension:/
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/popper.js (from https://airpronetworks.com/wp-content/themes/hostinza/assets/js/bootstrap.min.js?ver=2.9.5)
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/l (from https://airpronetworks.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/t.params.url (from https://airpronetworks.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/OPR/ (from https://airpronetworks.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.7)
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/region/world/ (from https://airpronetworks.com/wp-content/plugins/interactive-geo-maps/assets/public/map-service/app.min.js?ver=1.6.28)
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/region/usa/ (from https://airpronetworks.com/wp-content/plugins/interactive-geo-maps/assets/public/map-service/app.min.js?ver=1.6.28)
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/document.location (from https://airpronetworks.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.10.1)
+11:54:25	Error: 	"Not Found" (404) at link https://airpronetworks.com/e,window.location.origin (from https://airpronetworks.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.9.3)
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2409
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2409 to https://airpronetworks.com/portfolio/ap-wac2100-v1-1200mbps-11ac-high-power-ceiling-mount-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2412
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2412 to https://airpronetworks.com/portfolio/ap-wac2100-v2-1200mbps-11ac-high-power-ceiling-mount-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=1798
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=1798 to https://airpronetworks.com/portfolio/air-ap605c-x1-dual-band-11ax-wi-fi-ceiling-mount-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2397
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2397 to https://airpronetworks.com/portfolio/air-ap605c-ax-dual-band-high-performance-gigabit-wireless-access-point/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2393
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2393 to https://airpronetworks.com/portfolio/air-ap610c-ax-indoor-802-11ax-wi-fi6-dual-band-enterprises-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2402
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2402 to https://airpronetworks.com/portfolio/air-ap620c-ax-indoor-802-11ax-wi-fi6-dual-band-enterprise-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2404
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2404 to https://airpronetworks.com/portfolio/air-ap940-2-96gbps-dual-band-11ax-wi-fi-ceiling-mount-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=3321
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=3321 to https://airpronetworks.com/portfolio/air-ap520-1-75gbps-dual-band-11ax-wi-fi6-ceiling-mount-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5308
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=5308 to https://airpronetworks.com/portfolio/air-ap530-3/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5324
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=5324 to https://airpronetworks.com/portfolio/air-ap545-3-6gbps-11ax-wifi6-ceiling-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=1761
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=1761 to https://airpronetworks.com/portfolio/air-wap2750e-750mbps-dual-band-wall-mount-wireless-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2419
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2419 to https://airpronetworks.com/portfolio/air-wap1200-wall-ap-1200mbps-dual-band-wall-mount-wireless-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5343
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=5343 to https://airpronetworks.com/portfolio/air-wap1200-v2-1200mbps-dual-band-wall-mount-wireless-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2538
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2538 to https://airpronetworks.com/portfolio/air-wap602-x1-1-75gbps-dual-band-11ax-wi-fi6-in-wall/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2541
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=2541 to https://airpronetworks.com/portfolio/air-wap605-ax1-1-75gbps-dual-band-11ax-wi-fi6-in-wall/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5381
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=5381 to https://airpronetworks.com/portfolio/air-wap610-ax-3gbps-dual-band-11ax-wi-fi6-in-wall-ap/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5407
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=5407 to https://airpronetworks.com/portfolio/air-wap640-1-75gbps-dual-band-11ax-wi-fi6-in-wall-ap-2/
+11:54:26	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5395
+11:54:26	Warning: 	File has moved from https://airpronetworks.com/?p=5395 to https://airpronetworks.com/portfolio/air-wap640-1-75gbps-dual-band-11ax-wi-fi6-in-wall-ap/
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5017
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=5017 to https://airpronetworks.com/portfolio/air-wap605ax-r2-high-power-enterprise-grade-in-wall-ap-with-1wan-poe-4lan-1-lan-poe-out/
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2424
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=2424 to https://airpronetworks.com/portfolio/air-mo750-11ac-750mbps-high-power-outdoor-wireless-ap/
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2431
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=2431 to https://airpronetworks.com/portfolio/air-mo1200-1-2gbps-dual-band-11achigh-power-outdoor-access-point/
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2832
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=2832 to https://airpronetworks.com/portfolio/air-ap690ix-odu-1-75-gbps-dual-band-11ax-high-power-wi-fi6-outdoor-ap/
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2850
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=2850 to https://airpronetworks.com/portfolio/air-ap690ex-odu-1-75-gbps-dual-band-11ax-high-power-wi-fi6-outdoor-ap/
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2434
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=2434 to https://airpronetworks.com/portfolio/air-ap990odu-10-100-1000base-t-ethernet-uplink-port/
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5540
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=5540 to https://airpronetworks.com/portfolio/ap-wlc3608-wireless-lan-controller/
+11:54:34	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-WLC3608.pdf (from https://airpronetworks.com/portfolio/ap-wlc3608-wireless-lan-controller/)
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5535
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=5535 to https://airpronetworks.com/portfolio/ap-wlc3606-wireless-lan-controller/
+11:54:34	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-WLC3606.pdf (from https://airpronetworks.com/portfolio/ap-wlc3606-wireless-lan-controller/)
+11:54:34	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5525
+11:54:34	Warning: 	File has moved from https://airpronetworks.com/?p=5525 to https://airpronetworks.com/portfolio/ap-wlc3000-wireless-lan-controller/
+11:54:34	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-WLC3000.pdf (from https://airpronetworks.com/portfolio/ap-wlc3000-wireless-lan-controller/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5514
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=5514 to https://airpronetworks.com/portfolio/ap-wlc2000-wireless-lan-controller/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5493
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=5493 to https://airpronetworks.com/portfolio/ap-wlc1500-wireless-lan-controller/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2544
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2544 to https://airpronetworks.com/portfolio/ap-wlc7008-ap-smart-controller-with-6port-gigabit/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2549
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2549 to https://airpronetworks.com/portfolio/ap-wlc7028-ap-smart-controller-with-24port-gigabit/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2552
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2552 to https://airpronetworks.com/portfolio/ap-wlc7036-ap-smart-controller-with-6-ge-ports/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2555
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2555 to https://airpronetworks.com/portfolio/ap-wlc7045-ap-smart-controller-with-24-gigabit-port/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=6185
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=6185 to https://airpronetworks.com/portfolio/ap-s6200/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2666
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2666 to https://airpronetworks.com/portfolio/ap6500e-16x-4xg-r-12ports-1g-sfp-4ports-combo-with-410g-sfp-uplink-1-console-port/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2671
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2671 to https://airpronetworks.com/portfolio/ap6500e-52x-4xg-r-48ports-1g-sfp-with-410g-uplink-ports-1-console-port/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2634
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2634 to https://airpronetworks.com/portfolio/ap-bsg6750m-18x-p-6xq-12ports-x1g-2-5g-5g-10gbase-t6-x-10g-25ge-sfp28-ports/
+11:54:35	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-BSG6750M-18X-P-6XQ.pdf (from https://airpronetworks.com/portfolio/ap-bsg6750m-18x-p-6xq-12ports-x1g-2-5g-5g-10gbase-t6-x-10g-25ge-sfp28-ports/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2628
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2628 to https://airpronetworks.com/portfolio/ap-bsg6750e-28x-p-r1-24ports-10-1000mbps-with-410g-sfp-uplink-1-console-port/
+11:54:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://airpronetworks.com/datasheet-pdf/AP-BSG6750E-28X-P-R1.pdf (from https://airpronetworks.com/portfolio/ap-bsg6750e-28x-p-r1-24ports-10-1000mbps-with-410g-sfp-uplink-1-console-port/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2637
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2637 to https://airpronetworks.com/portfolio/ap-bsg6750m-30x-p-4xp2q-24x100-1000m-2-5gbase-t4-x-10gesfp-2-x-40gqsfp-ports/
+11:54:35	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-BSG6750M-30X-P-4XP2Q.pdf (from https://airpronetworks.com/portfolio/ap-bsg6750m-30x-p-4xp2q-24x100-1000m-2-5gbase-t4-x-10gesfp-2-x-40gqsfp-ports/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2631
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2631 to https://airpronetworks.com/portfolio/ap-bsg6750e-52x-p-r1-48ports-100-1000mbps-with-410g-uplink-ports-1-console-port/
+11:54:35	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-BSG6750E-52X-P-R1.pdf (from https://airpronetworks.com/portfolio/ap-bsg6750e-52x-p-r1-48ports-100-1000mbps-with-410g-uplink-ports-1-console-port/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5061
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=5061 to https://airpronetworks.com/portfolio/ap-sg6500e-28f-4xg-r-dual-stack-10g-ethernet-routing-fiber-switch/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2675
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2675 to https://airpronetworks.com/portfolio/ap-sgxq7200-24x2q-24ports-10gsfp-with-240g-uplink-ports-1-console-port/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2677
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2677 to https://airpronetworks.com/portfolio/ap-sgxq7200-48x2q-48ports-10gsfp-with240g-uplink-ports-1-console-port/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5073
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=5073 to https://airpronetworks.com/portfolio/ap-sg6200-24xf2q-100g-ethernet-routing-switch/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2612
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2612 to https://airpronetworks.com/portfolio/ap-esg-3010p-8ports-1000mbps-poe-with-21g-sfp-uplink-1console-port/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2618
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2618 to https://airpronetworks.com/portfolio/ap-esg3024p-28-port-poe-l2-managed-switch/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2317
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2317 to https://airpronetworks.com/portfolio/ap-esg3048p/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2615
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2615 to https://airpronetworks.com/portfolio/ap-sg4500-12gt-p-4xfp-l2-10g-intelligent-access-switch/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2621
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2621 to https://airpronetworks.com/portfolio/ap-sg4500-24gt-p-4sfp-24ports-1000mbps-poe-switch/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2624
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2624 to https://airpronetworks.com/portfolio/ap-sg4500-24gt-p-4xfp-24ports-1000mbps-poe-switch/
+11:54:35	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-SG4500-24GT-P-4XFP.pdf (from https://airpronetworks.com/portfolio/ap-sg4500-24gt-p-4xfp-24ports-1000mbps-poe-switch/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2640
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2640 to https://airpronetworks.com/portfolio/ap-sg4500-10gt-2sfp-8ports-1000mbps-with-21g-sfp-uplink-1-console-port/
+11:54:35	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-SG4500-10GT-2SFP.pdf (from https://airpronetworks.com/portfolio/ap-sg4500-10gt-2sfp-8ports-1000mbps-with-21g-sfp-uplink-1-console-port/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2643
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2643 to https://airpronetworks.com/portfolio/ap-sg4500-12gt-4xfp-8ports-1000mbps-with-410g-uplink-ports-1-console-port/
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2647
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2647 to https://airpronetworks.com/portfolio/ap-sg4500-28gt-4sfp-24ports-1000mbps-with-41g-uplink-ports-1-console-port/
+11:54:35	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-SG4500-28GT-4SFP.pdf (from https://airpronetworks.com/portfolio/ap-sg4500-28gt-4sfp-24ports-1000mbps-with-41g-uplink-ports-1-console-port/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2651
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2651 to https://airpronetworks.com/portfolio/ap-sg4500-28gt-4xfp/
+11:54:35	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-SG4500-28GT-4XFP.pdf (from https://airpronetworks.com/portfolio/ap-sg4500-28gt-4xfp/)
+11:54:35	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2654
+11:54:35	Warning: 	File has moved from https://airpronetworks.com/?p=2654 to https://airpronetworks.com/portfolio/ap-sg4500-52gt-4sfp/
+11:54:36	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-SG4500-52GT-4SFP.pdf (from https://airpronetworks.com/portfolio/ap-sg4500-52gt-4sfp/)
+11:54:36	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2657
+11:54:36	Warning: 	File has moved from https://airpronetworks.com/?p=2657 to https://airpronetworks.com/portfolio/ap-sg4500-52gt-4xfp/
+11:54:36	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-SG4500-52GT-4XFP.pdf (from https://airpronetworks.com/portfolio/ap-sg4500-52gt-4xfp/)
+11:54:36	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2673
+11:54:36	Warning: 	File has moved from https://airpronetworks.com/?p=2673 to https://airpronetworks.com/portfolio/ap-sg5550-24xe-24ports-1000mbps-copper-ports-with-410g-uplink-ports1-console-port/
+11:54:36	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-SG5550-24XE.pdf (from https://airpronetworks.com/portfolio/ap-sg5550-24xe-24ports-1000mbps-copper-ports-with-410g-uplink-ports1-console-port/)
+11:54:36	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2558
+11:54:36	Warning: 	File has moved from https://airpronetworks.com/?p=2558 to https://airpronetworks.com/portfolio/ap-es106p-4ports-100mbps-poe-with-2100mbps-uplink-ports/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2564
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2564 to https://airpronetworks.com/portfolio/ap-es108p-2ge-8ports-100mbps-poe-with-21000mbps-uplink-ports/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2567
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2567 to https://airpronetworks.com/portfolio/ap-es1216-16ports-100mbps-poe-with-2ge1sfp-uplink-ports/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2588
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2588 to https://airpronetworks.com/portfolio/ap-esg1906p-4ports-1000mbps-poe-with-11000mbps-ge-1sfp-uplink-ports/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2591
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2591 to https://airpronetworks.com/portfolio/ap-esg1906-2sf-4ports-1000mbps-poe-with-2sfp-uplink-ports/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2594
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2594 to https://airpronetworks.com/portfolio/ap-esg1910p-2ge-8ports-1000mbps-poe-with-2ge-uplink-ports/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2597
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2597 to https://airpronetworks.com/portfolio/ap-esg1910p-2sf-10-100-1000m-smart-long-range-poe-switch/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2600
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2600 to https://airpronetworks.com/portfolio/ap-gs1008-8port-10-100-1000-giga-unmanaged-switch/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2603
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2603 to https://airpronetworks.com/portfolio/ap-sg1016-16port-10-100-1000-giga-unmanaged-swtich/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2608
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2608 to https://airpronetworks.com/portfolio/ap-sg1024-24port-10-100-1000-gigabit-unmanaged-switch/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2446
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2446 to https://airpronetworks.com/portfolio/air-drona/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2453
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2453 to https://airpronetworks.com/portfolio/air-lakshya/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2450
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2450 to https://airpronetworks.com/portfolio/air-connect-2-300mbps-outdoor-cpe/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2896
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2896 to https://airpronetworks.com/portfolio/air-bridge-lite-5/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2460
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2460 to https://airpronetworks.com/portfolio/air-setu11ac-wave2-900mbps-5g-high-power-outdoor-ptp-ptm/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2464
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2464 to https://airpronetworks.com/portfolio/air-dhruv-11ac-900mbps-5g-high-power-outdoor-cpe/
+11:54:44	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2685
+11:54:44	Warning: 	File has moved from https://airpronetworks.com/?p=2685 to https://airpronetworks.com/portfolio/ap-lt4505n-300mbps-4g-lte-single-sim-router/
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2688
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=2688 to https://airpronetworks.com/portfolio/ap-lt4525an-300mbps-4g-lte-dual-sim-router/
+11:54:45	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-LT4525AN.pdf (from https://airpronetworks.com/portfolio/ap-lt4525an-300mbps-4g-lte-dual-sim-router/)
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2691
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=2691 to https://airpronetworks.com/portfolio/ap-lte130-300mbps-4g-lte-router/
+11:54:45	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-LT130.pdf (from https://airpronetworks.com/portfolio/ap-lte130-300mbps-4g-lte-router/)
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=5057
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=5057 to https://airpronetworks.com/portfolio/ap-dsg7510-48s6q-hi-40g-data-center-switch/
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2695
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=2695 to https://airpronetworks.com/portfolio/ap-lt100-4g-lte-industrial-grade-router-with-1wan-1lan-gigabit/
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=6316
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=6316 to https://airpronetworks.com/portfolio/4x-gigabit-sfp-optical-ports-8x-10-100-1000m-tx-ports/
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2570
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=2570 to https://airpronetworks.com/portfolio/ap-es1024p-24ports-100mbps-poe-with-2ge1sfp-uplink-ports/
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2679
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=2679 to https://airpronetworks.com/portfolio/airbgn1122-300mbps-broadband-router-with-25dbi-antenna/
+11:54:45	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2681
+11:54:45	Warning: 	File has moved from https://airpronetworks.com/?p=2681 to https://airpronetworks.com/portfolio/ap-lb1000-5port-gigabit-with-1wange4lan-ge-router/
+11:54:45	Error: 	"Not Found" (404) at link https://airpronetworks.com/datasheet-pdf/AP-BSG6750E-28X-P-R1.pdf (from https://airpronetworks.com/portfolio/ap-bsg6750e-28x-p-r1-24ports-10-1000mbps-with-410g-sfp-uplink-1-console-port/)
+11:54:46	Warning: 	Moved Permanently for https://airpronetworks.com/?p=2454
+11:54:46	Warning: 	File has moved from https://airpronetworks.com/?p=2454 to https://airpronetworks.com/portfolio/air-bridge-5/
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 7 seconds : 1327 links scanned, 1045 files written (101710746 bytes overall) [78702729 bytes received at 62117 bytes/sec], 62943970 bytes transferred using HTTP compression in 228 files, ratio 57%, 3.7 requests per connection
+(184 errors, 197 warnings, 0 messages)
